@@ -27,7 +27,7 @@ This assumes default file names:
 ### Advanced Options
 
 ```bash
-python calibration_updater.py \
+python3 calibration_updater.py \
   --config path/to/your/config.json \
   --calibration path/to/your/calibration.csv \
   --output path/to/save/updated-config.json \
